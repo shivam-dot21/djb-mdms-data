@@ -31622,6 +31622,24 @@
       "actionid": 2949,
       "actioncode": "",
       "tenantId": "dl"
+    },
+    {
+      "rolecode": "COMMON_VENDOR",
+      "actionid": 2949,
+      "actioncode": "",
+      "tenantId": "dl"
+    },
+    {
+      "rolecode": "COMMON_VENDOR",
+      "actionid": 2410,
+      "actioncode": "",
+      "tenantId": "dl"
+    },
+    {
+      "rolecode": "COMMON_VENDOR",
+      "actionid": 2411,
+      "actioncode": "",
+      "tenantId": "dl"
     }
   ]
 }
