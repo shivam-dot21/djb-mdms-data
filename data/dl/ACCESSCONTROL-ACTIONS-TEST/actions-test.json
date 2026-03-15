@@ -19958,7 +19958,7 @@
     },
     {
       "id": 2950,
-      "name": "Update driver status",
+      "name": "Update the driver status",
       "url": "/request-service/water-tanker/v1/_updatestatus",
       "displayName": "update status",
       "orderNumber": 1,
@@ -19969,7 +19969,7 @@
     },
     {
       "id": 2951,
-      "name": "Update driver status",
+      "name": "Search driver",
       "url": "/request-service/water-tanker/v1/_driverSearch",
       "displayName": "search driver by id",
       "orderNumber": 1,
@@ -19980,7 +19980,7 @@
     },
     {
       "id": 2952,
-      "name": "driver assignments",
+      "name": "get driver assignments by the driver",
       "url": "/request-service/water-tanker/v1/_driver_assignments",
       "displayName": "search driver assignments",
       "orderNumber": 1,
