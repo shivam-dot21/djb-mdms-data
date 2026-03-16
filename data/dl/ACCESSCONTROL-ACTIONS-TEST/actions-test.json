@@ -19988,6 +19988,17 @@
       "serviceCode": "request-service",
       "code": "null",
       "path": ""
-    }  
+    },
+    {
+      "id": 2953,
+      "name": "get driver updates",
+      "url": "/request-service/driver/v1/trip/_update",
+      "displayName": "get driver updates",
+      "orderNumber": 1,
+      "enabled": false,
+      "serviceCode": "request-service",
+      "code": "null",
+      "path": ""
+    }
   ]
 }
