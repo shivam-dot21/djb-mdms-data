@@ -6,6 +6,7 @@
       "module": "dlR",
       "code": "dlR",
       "bannerImage": "https://egov-uat-assets.s3.amazonaws.com/dlR.png",
+      "dashboards": "http://localhost:8088/login/keycloak?next=/superset/dashboard/1/?native_filters_key=OX2ty892Tu8&standalone=1",
       "active": true,
       "order": 2,
       "tenants": [
