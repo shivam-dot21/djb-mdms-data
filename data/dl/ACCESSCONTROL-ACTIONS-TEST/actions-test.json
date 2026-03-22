@@ -20047,7 +20047,7 @@
     {
       "id": 2958,
       "name": "filling point create",
-      "url": "/request-service/wt/filling-point/_create,
+      "url": "/request-service/wt/filling-point/_create",
       "displayName": "create filling point address",
       "orderNumber": 1,
       "enabled": false,
@@ -20058,7 +20058,7 @@
     {
       "id": 2959,
       "name": "filling point search",
-      "url": "/request-service/wt/filling-point/_search,
+      "url": "/request-service/wt/filling-point/_search",
       "displayName": "search filling je,ae,ee ",
       "orderNumber": 1,
       "enabled": false,
@@ -20069,14 +20069,46 @@
     {
       "id": 2960,
       "name": "filling point update",
-      "url": "/request-service/wt/filling-point/_update,
+      "url": "/request-service/wt/filling-point/_update",
       "displayName": "update filling point",
       "orderNumber": 1,
       "enabled": false,
       "serviceCode": "request-service",
       "code": "null",
       "path": ""
-    }
-    
+    },
+    {
+      "id": 2961,
+      "name": "fixed time create",
+      "url": "/request-service/water-tanked/fixed/time/v1/_create",
+      "displayName": "fixed time create",
+      "orderNumber": 1,
+      "enabled": false,
+      "serviceCode": "request-service",
+      "code": "null",
+      "path": ""
+    },
+    {
+      "id": 2962,
+      "name": "fixed time update",
+      "url": "/request-service/water-tanked/fixed/time/v1/_update",
+      "displayName": "fixed time update",
+      "orderNumber": 1,
+      "enabled": false,
+      "serviceCode": "request-service",
+      "code": "null",
+      "path": ""
+    },
+    {
+      "id": 2963,
+      "name": "fixed time search",
+      "url": "/request-service/water-tanked/fixed/time/v1/_search",
+      "displayName": "fixed time search",
+      "orderNumber": 1,
+      "enabled": false,
+      "serviceCode": "request-service",
+      "code": "null",
+      "path": ""
+    }    
   ]
 }
