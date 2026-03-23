@@ -20109,6 +20109,17 @@
       "serviceCode": "request-service",
       "code": "null",
       "path": ""
-    }    
+    },
+    {
+      "id": 2964,
+      "name": "Mapping fixed point and filling point",
+      "url": "/request-service/water-tanker/fixed-filling/v1/_mapping",
+      "displayName": "Mapping fixed and filling point",
+      "orderNumber": 1,
+      "enabled": false,
+      "serviceCode": "request-service",
+      "code": "null",
+      "path": ""
+    }
   ]
 }
