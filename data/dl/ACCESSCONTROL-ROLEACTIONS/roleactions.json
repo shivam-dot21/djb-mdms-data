@@ -32077,6 +32077,18 @@
       "actionid": 2964,
       "actioncode": "",
       "tenantId": "dl"
+    },
+    {
+      "rolecode": "WT_DRIVER",
+      "actionid": 2936,
+      "actioncode": "",
+      "tenantId": "dl"
+    },
+    {
+      "rolecode": "WT_DRIVER",
+      "actionid": 2937,
+      "actioncode": "",
+      "tenantId": "dl"
     }
   ]
 }
