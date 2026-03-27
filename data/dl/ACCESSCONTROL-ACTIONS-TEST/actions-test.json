@@ -20168,7 +20168,7 @@
     {
       "id": 2969,
       "name": "filling point mapped TO VENDOR",
-      "url": "request-service/wt/filling-point/vendor/_map",
+      "url": "/request-service/wt/filling-point/vendor/_map",
       "displayName": "filling point map to vendor",
       "orderNumber": 1,
       "enabled": false,
