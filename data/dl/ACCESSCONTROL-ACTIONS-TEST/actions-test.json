@@ -20142,6 +20142,28 @@
       "serviceCode": "request-service",
       "code": "null",
       "path": ""
-    }  
+    },
+    {
+      "id": 2967,
+      "name": "filling point locality create endpoint",
+      "url": "/request-service/filling-point/locality/v1/_create",
+      "displayName": "filling point locality",
+      "orderNumber": 1,
+      "enabled": false,
+      "serviceCode": "request-service",
+      "code": "null",
+      "path": ""
+    },
+    {
+      "id": 2968,
+      "name": "filling point locality update endpoint",
+      "url": "/request-service/filling-point/locality/v1/_update",
+      "displayName": "filling point locality update",
+      "orderNumber": 1,
+      "enabled": false,
+      "serviceCode": "request-service",
+      "code": "null",
+      "path": ""
+    }
   ]
 }
