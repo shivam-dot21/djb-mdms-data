@@ -351,6 +351,11 @@
       "code": "VEHICLE_ADMIN",
       "name": "VEHICLE_ADMIN",
       "description": "Vehicle Administrator role for managing vehicle-related operations"
+    },
+    {
+      "code": "WT_UPDATE",
+      "name": "wT_UPDATE",
+      "description": "role for updating filling point and fixed point mapping"
     }
   ]
 }
