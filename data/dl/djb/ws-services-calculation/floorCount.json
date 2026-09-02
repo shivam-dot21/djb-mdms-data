@@ -3,11 +3,6 @@
   "moduleName": "ws-services-calculation",
   "floorCount": [
     {
-      "code": "FIFTH_FLOOR",
-      "name": "5 Floor",
-      "active": true
-    },
-    {
       "code": "MEZZANINE_FLOOR",
       "name": "Mezzanine Floor",
       "active": true
@@ -35,6 +30,11 @@
     {
       "code": "FOURTH_FLOOR",
       "name": "4 Floor",
+      "active": true
+    },
+      {
+      "code": "FIFTH_FLOOR",
+      "name": "5 Floor",
       "active": true
     }
   ]
